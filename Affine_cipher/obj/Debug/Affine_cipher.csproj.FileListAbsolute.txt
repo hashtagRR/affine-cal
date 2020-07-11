@@ -1,0 +1,10 @@
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\bin\Debug\Affine_cipher.exe.config
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\bin\Debug\Affine_cipher.exe
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\bin\Debug\Affine_cipher.pdb
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\obj\Debug\Affine_cipher.csprojAssemblyReference.cache
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\obj\Debug\Affine_cipher.Affine.resources
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\obj\Debug\Affine_cipher.Properties.Resources.resources
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\obj\Debug\Affine_cipher.csproj.GenerateResource.cache
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\obj\Debug\Affine_cipher.csproj.CoreCompileInputs.cache
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\obj\Debug\Affine_cipher.exe
+c:\users\rathsara\source\repos\Affine_cipher\Affine_cipher\obj\Debug\Affine_cipher.pdb
