@@ -16,16 +16,16 @@ This is a coursework/learning project, not production software.
 - **Decode**: type cipher text and the same key pair; the form computes the
   multiplicative inverse of `a` mod 26 and applies
   `d(x) = a⁻¹ * (e(x) - b) mod 26` to recover the plain text.
-- Encoding and decoding are independent panels with their own inputs — it is
-  not a live two-way transform of a single text box.
+- Encoding and decoding are independent panels with their own inputs. This
+  isn't a live two-way transform of a single text box.
 
 ## Project layout
 
-- `Affine_cipher.sln` — Visual Studio solution.
-- `Affine_cipher/Affine.cs` — the form and the cipher math
+- `Affine_cipher.sln`: Visual Studio solution.
+- `Affine_cipher/Affine.cs`: the form and the cipher math
   (`button1_Click` for encode, `button3_Click` for decode,
   `MultiplicativeInverse` helper).
-- `Affine_cipher/Affine.Designer.cs`, `Affine_cipher/Affine.resx` — the
+- `Affine_cipher/Affine.Designer.cs`, `Affine_cipher/Affine.resx`: the
   generated WinForms UI.
 
 ## Running it
